@@ -4,7 +4,7 @@
 
 Setup
 ```bash
-cd minecraft-server/
+# cd to repo.
 ./build-bukkit.sh
 ./craftbukkit/craftbukkit.sh #Just to create directory structure and then "stop" it.
 ./setup-RaspberryJuice.sh
