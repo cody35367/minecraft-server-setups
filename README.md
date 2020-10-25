@@ -6,10 +6,10 @@ Setup
 ```bash
 # cd to repo.
 ./build-bukkit.sh
-./craftbukkit/craftbukkit.sh #Create eula.txt and change to 'eula=true' before running again.
-./craftbukkit/craftbukkit.sh #Just to create directory structure and then "stop" it.
+./craftbukkit.sh #Create eula.txt and change to 'eula=true' before running again.
+./craftbukkit.sh #Just to create directory structure and then "stop" it.
 ./setup-RaspberryJuice.sh
-./craftbukkit/craftbukkit.sh #Verify that RaspberryJuice loads properly.
+./craftbukkit.sh #Verify that RaspberryJuice loads properly.
 ```
 [mcpi github](https://github.com/martinohanlon/mcpi)
 
