@@ -1,5 +1,4 @@
 BuildTools/
-craftbukkit/*
-!craftbukkit/craftbukkit.sh
+craftbukkit/
 RaspberryJuice/
 mcpi/env/
