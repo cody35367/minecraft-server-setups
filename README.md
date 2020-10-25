@@ -10,6 +10,8 @@ Setup
 ./craftbukkit.sh #Just to create directory structure and then "stop" it.
 ./setup-RaspberryJuice.sh
 ./craftbukkit.sh #Verify that RaspberryJuice loads properly.
+
+git clean -ffdx #if you want to clean up and delete things but be careful this will delete your world.
 ```
 [mcpi github](https://github.com/martinohanlon/mcpi)
 
